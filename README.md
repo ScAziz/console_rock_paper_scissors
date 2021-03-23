@@ -1,1 +1,1 @@
-A simple Rock, Paper, Scissors game, to be played on the console.
+A simple Rock, Paper, Scissors game, to be played between prompt and the console.
